@@ -28,7 +28,8 @@ h1 {
     background-color: bisque;
     border: 2px solid;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px 1px;
+    /* 5 - вправо, 5 - вниз, 10 - розмір тіні, 1 - товщина тіні */
+    box-shadow: 5px 5px 10px 1px;       
     padding: 30px;
     text-align: justify;
     margin-right: 20px;
